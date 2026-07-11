@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickLaunch</string>
+    <string name="xposed_description">Launch the first app from Launcher3 search results when pressing Enter</string>
+</resources>
