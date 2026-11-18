@@ -8,7 +8,7 @@ This replicates the behavior proposed in [LineageOS Gerrit patch #489879](https:
 * **Root Access**
 * **LSPosed Framework** 
   * *Recommended:* [JingMatrix/Vector 2.0](https://github.com/JingMatrix/Vector)
-* **Tested on:** Launcher3 on LineageOS 23.2
+* **Tested on:** Launcher3 on LineageOS 23.2 & 24.0
 
 ## Installation & Usage
 1. Download the latest `QuickLaunch-vX.X.apk` from the [Releases page](https://github.com/hddq/launcher3-quicklaunch/releases).
